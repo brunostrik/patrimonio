@@ -65,9 +65,6 @@ Sistema web para gestão e controle de patrimônio do Instituto Federal do Paran
         ```
     *   Ou importar manualmente o arquivo `database/schema.sql` no seu banco de dados.
 
-5.  **Imagens dos Patrocinadores**
-    *   Adicione os logos `if.png` e `parquetec.png` na pasta `public/img/` para que apareçam no rodapé.
-
 ## ▶️ Como Executar
 
 Para ambiente de desenvolvimento, você pode usar o servidor embutido do PHP:
